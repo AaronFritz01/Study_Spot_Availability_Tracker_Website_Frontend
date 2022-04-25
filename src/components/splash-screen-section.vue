@@ -18,14 +18,14 @@
 </template>
 
 <script>
-import SplashButton from "./templates/SplashButton.vue";
+import SplashButton from "./templates/splash-button.vue";
 
 export default {
   name: "LocationSection",
   components: {
     SplashButton,
-  }
-}
+  },
+};
 </script>
 
 <style scoped>

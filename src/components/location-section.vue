@@ -26,11 +26,11 @@
 <script>
 export default {
   name: "LocationSection",
-}
+};
 </script>
 
 <style scoped>
-.columns{
+.columns {
   display: flex;
   justify-content: space-between;
 }

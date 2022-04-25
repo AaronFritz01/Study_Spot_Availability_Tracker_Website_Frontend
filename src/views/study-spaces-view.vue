@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import ContactSection from "../components/ContactSection.vue";
-import LocationSection from "../components/LocationSection.vue";
+import ContactSection from "../components/contact-section.vue";
+import LocationSection from "../components/location-section.vue";
 
 export default {
   name: "StudySpacesView",
@@ -16,7 +16,6 @@ export default {
     LocationSection,
   },
 };
-
 </script>
 
 <style scoped>
