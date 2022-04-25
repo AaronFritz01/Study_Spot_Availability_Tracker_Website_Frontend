@@ -4,6 +4,6 @@
 
 <script>
 export default {
-  name: "SplashButton",
+  name: 'SplashButton',
 };
 </script>

@@ -2,6 +2,6 @@
 
 <script>
 export default {
-  name: "CampusMapView",
+  name: 'CampusMapView',
 };
 </script>

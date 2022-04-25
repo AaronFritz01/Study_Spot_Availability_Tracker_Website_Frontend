@@ -4,6 +4,6 @@
 
 <script>
 export default {
-  name: "AnnouncementsSection",
+  name: 'AnnouncementsSection',
 };
 </script>

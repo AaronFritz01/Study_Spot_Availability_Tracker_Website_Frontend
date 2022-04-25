@@ -28,7 +28,7 @@
 
 <script>
 export default {
-  name: "OptionCardSection",
+  name: 'OptionCardSection',
 };
 </script>
 

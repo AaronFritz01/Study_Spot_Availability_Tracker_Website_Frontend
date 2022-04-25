@@ -2,6 +2,6 @@
 
 <script>
 export default {
-  name: "ContactsView",
+  name: 'ContactsView',
 };
 </script>

@@ -25,7 +25,7 @@
 
 <script>
 export default {
-  name: "LocationSection",
+  name: 'LocationSection',
 };
 </script>
 

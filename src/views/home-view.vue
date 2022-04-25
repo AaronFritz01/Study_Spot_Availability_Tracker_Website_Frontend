@@ -9,14 +9,14 @@
 </template>
 
 <script>
-import SplashScreenSection from "../components/splash-screen-section.vue";
-import OptionCardSection from "../components/option-card-section.vue";
-import AnnouncmentsSection from "../components/announcments-section.vue";
-import AboutSection from "../components/about-section.vue";
-import ContactSection from "../components/contact-section.vue";
+import SplashScreenSection from '../components/splash-screen-section.vue';
+import OptionCardSection from '../components/option-card-section.vue';
+import AnnouncmentsSection from '../components/announcments-section.vue';
+import AboutSection from '../components/about-section.vue';
+import ContactSection from '../components/contact-section.vue';
 
 export default {
-  name: "HomeView",
+  name: 'HomeView',
 
   components: {
     SplashScreenSection,

@@ -6,11 +6,11 @@
 </template>
 
 <script>
-import ContactSection from "../components/contact-section.vue";
-import LocationSection from "../components/location-section.vue";
+import ContactSection from '../components/contact-section.vue';
+import LocationSection from '../components/location-section.vue';
 
 export default {
-  name: "StudySpacesView",
+  name: 'StudySpacesView',
   components: {
     ContactSection,
     LocationSection,
